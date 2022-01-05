@@ -6,7 +6,7 @@
 ### Descricao
 
 <p align="center">
-    Aplicativo criado no curso de react native da digital innovation one
+Aplicativo criado no curso de react native da digital innovation one
 </p>
 
 ### Informacao
@@ -28,7 +28,12 @@ https://github.com/lourranio/ifood/blob/240103b7795ece2c0b5fa86bb3b70f6e381036f5
 https://docs.expo.dev/get-started/create-a-new-app/
 
 * React Native
+https://www.luiztools.com.br/post/tutorial-crud-em-app-android-e-ios-com-react-native/
+
+* Android
+Siga este tutorial para ter o Android pra testar o App.
 https://www.luiztools.com.br/post/como-usar-emulador-com-react-native-android-e-ios/
+
 
 ## EndPoints
 
