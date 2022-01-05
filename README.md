@@ -3,11 +3,30 @@
     IFOOD CLONE 
 </h1>
 
+### Descricao
+
 <p align="center">
     Aplicativo criado no curso de react native da digital innovation one
 </p>
 
+### Informacao
 
+* Foi atualizado o Pacote JDK da aplicacao:
+https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/
+
+* Nova splash do ifood 2022.
+https://github.com/lourranio/ifood/blob/240103b7795ece2c0b5fa86bb3b70f6e381036f5/assets/splash-ifood.png
+
+
+
+
+### Ferramentas
+
+* EXPO
+https://docs.expo.dev/get-started/create-a-new-app/
+
+* React Native
+https://www.luiztools.com.br/post/como-usar-emulador-com-react-native-android-e-ios/
 
 ## EndPoints
 
@@ -23,5 +42,3 @@
 <br>
 <br>
 
-## Obrigado
-<p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://linkedin.com/in/pablohev), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
