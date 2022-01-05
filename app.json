@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "ifoodClone",
+    "slug": "ifoodClone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon-L.png",
+    "splash": {
+      "image": "./assets/splash-ifood.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F0001A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
