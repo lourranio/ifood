@@ -17,6 +17,8 @@ https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/
 * Nova splash do ifood 2022.
 https://github.com/lourranio/ifood/blob/240103b7795ece2c0b5fa86bb3b70f6e381036f5/assets/splash-ifood.png
 
+* Tela Inicial.
+![Tela Inicial!](https://github.com/lourranio/ifood/blob/e5aa27ac7bcb070c0553866d4d647211d32abae1/src/assets/img/tela-inicial.png)
 
 
 
